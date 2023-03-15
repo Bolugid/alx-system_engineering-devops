@@ -1,0 +1,2 @@
+#!/bin/bash 9
+rm -rf /tmp/my_first_directory
