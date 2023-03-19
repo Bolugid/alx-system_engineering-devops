@@ -1,2 +1,2 @@
 #!/bin/bash
-lp -d /tmp/iamafile iamafile
+lpr -d /tmp/iamafile iamafile
