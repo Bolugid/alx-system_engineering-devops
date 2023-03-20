@@ -1,2 +1,2 @@
-#i/bin/bash
-tall -n 1 iacta >> iacta
+#!/bin/bash
+tall -n 1 iacta > iacta
