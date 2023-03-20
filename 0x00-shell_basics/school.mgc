@@ -1,2 +1,2 @@
-O string HOLBERTON Holberton data
-i mime Holberton
+#!/bin/bash
+file -C -m school.mgc
