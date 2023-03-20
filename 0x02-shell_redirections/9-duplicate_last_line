@@ -1,2 +1,2 @@
 #!/bin/bash
-tall -n 1 iacta > iacta
+cp iacta | tall -1
